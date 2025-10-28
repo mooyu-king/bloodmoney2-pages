@@ -6,20 +6,20 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/page": [
+    "/blog/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/page.js"
+      "static/chunks/app/blog/layout.js"
     ],
-    "/games/layout": [
+    "/blog/soflo-wheelie-life-blog/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/games/layout.js"
+      "static/chunks/app/blog/soflo-wheelie-life-blog/layout.js"
     ],
-    "/games/page": [
+    "/blog/soflo-wheelie-life-blog/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/games/page.js"
+      "static/chunks/app/blog/soflo-wheelie-life-blog/page.js"
     ]
   }
 }
