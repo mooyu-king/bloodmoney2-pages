@@ -1,4 +1,6 @@
 {
   "/page": "app/page.js",
-  "/kingdom-of-marionettes/page": "app/kingdom-of-marionettes/page.js"
+  "/blog/page": "app/blog/page.js",
+  "/sprunki-looping-the-rooms/page": "app/sprunki-looping-the-rooms/page.js",
+  "/blog/sprunki-looping-the-rooms-blog/page": "app/blog/sprunki-looping-the-rooms-blog/page.js"
 }

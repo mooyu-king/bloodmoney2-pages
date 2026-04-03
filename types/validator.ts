@@ -126,6 +126,15 @@ type LayoutConfig<Route extends LayoutRoutes = LayoutRoutes> = {
   type __Unused = __Check
 }
 
+// Validate ../../src/app/blog/sprunki-looping-the-rooms-blog/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/blog/sprunki-looping-the-rooms-blog">> = Specific
+  const handler = {} as typeof import("../../src/app/blog/sprunki-looping-the-rooms-blog/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
 // Validate ../../src/app/blog/super-willie-world-2-blog/page.tsx
 {
   type __IsExpected<Specific extends AppPageConfig<"/blog/super-willie-world-2-blog">> = Specific
@@ -261,6 +270,15 @@ type LayoutConfig<Route extends LayoutRoutes = LayoutRoutes> = {
   type __Unused = __Check
 }
 
+// Validate ../../src/app/sprunki-looping-the-rooms/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/sprunki-looping-the-rooms">> = Specific
+  const handler = {} as typeof import("../../src/app/sprunki-looping-the-rooms/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
 // Validate ../../src/app/sprunki-phase-10/page.tsx
 {
   type __IsExpected<Specific extends AppPageConfig<"/sprunki-phase-10">> = Specific
@@ -379,6 +397,15 @@ type LayoutConfig<Route extends LayoutRoutes = LayoutRoutes> = {
 {
   type __IsExpected<Specific extends LayoutConfig<"/blog/soflo-wheelie-life-blog">> = Specific
   const handler = {} as typeof import("../../src/app/blog/soflo-wheelie-life-blog/layout.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../src/app/blog/sprunki-looping-the-rooms-blog/layout.tsx
+{
+  type __IsExpected<Specific extends LayoutConfig<"/blog/sprunki-looping-the-rooms-blog">> = Specific
+  const handler = {} as typeof import("../../src/app/blog/sprunki-looping-the-rooms-blog/layout.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
@@ -514,6 +541,15 @@ type LayoutConfig<Route extends LayoutRoutes = LayoutRoutes> = {
 {
   type __IsExpected<Specific extends LayoutConfig<"/soflo-wheelie-life">> = Specific
   const handler = {} as typeof import("../../src/app/soflo-wheelie-life/layout.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../src/app/sprunki-looping-the-rooms/layout.tsx
+{
+  type __IsExpected<Specific extends LayoutConfig<"/sprunki-looping-the-rooms">> = Specific
+  const handler = {} as typeof import("../../src/app/sprunki-looping-the-rooms/layout.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check
