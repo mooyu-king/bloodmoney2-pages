@@ -11,45 +11,25 @@
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
-    "/sprunki-looping-the-rooms/layout": [
+    "/epstein-puzzle-files/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/sprunki-looping-the-rooms/layout.js"
+      "static/chunks/app/epstein-puzzle-files/layout.js"
     ],
-    "/sprunki-looping-the-rooms/page": [
+    "/epstein-puzzle-files/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/sprunki-looping-the-rooms/page.js"
+      "static/chunks/app/epstein-puzzle-files/page.js"
     ],
-    "/blog/layout": [
+    "/blood-money-2/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/blog/layout.js"
+      "static/chunks/app/blood-money-2/layout.js"
     ],
-    "/blog/page": [
+    "/blood-money-2/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/blog/page.js"
-    ],
-    "/games/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/games/layout.js"
-    ],
-    "/games/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/games/page.js"
-    ],
-    "/blog/sprunki-looping-the-rooms-blog/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/blog/sprunki-looping-the-rooms-blog/layout.js"
-    ],
-    "/blog/sprunki-looping-the-rooms-blog/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/blog/sprunki-looping-the-rooms-blog/page.js"
+      "static/chunks/app/blood-money-2/page.js"
     ]
   }
 }

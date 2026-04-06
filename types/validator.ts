@@ -162,6 +162,15 @@ type LayoutConfig<Route extends LayoutRoutes = LayoutRoutes> = {
   type __Unused = __Check
 }
 
+// Validate ../../src/app/epstein-puzzle-files/page.tsx
+{
+  type __IsExpected<Specific extends AppPageConfig<"/epstein-puzzle-files">> = Specific
+  const handler = {} as typeof import("../../src/app/epstein-puzzle-files/page.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
 // Validate ../../src/app/farm-merge-harvest/page.tsx
 {
   type __IsExpected<Specific extends AppPageConfig<"/farm-merge-harvest">> = Specific
@@ -433,6 +442,15 @@ type LayoutConfig<Route extends LayoutRoutes = LayoutRoutes> = {
 {
   type __IsExpected<Specific extends LayoutConfig<"/epstein-clicker">> = Specific
   const handler = {} as typeof import("../../src/app/epstein-clicker/layout.js")
+  type __Check = __IsExpected<typeof handler>
+  // @ts-ignore
+  type __Unused = __Check
+}
+
+// Validate ../../src/app/epstein-puzzle-files/layout.tsx
+{
+  type __IsExpected<Specific extends LayoutConfig<"/epstein-puzzle-files">> = Specific
+  const handler = {} as typeof import("../../src/app/epstein-puzzle-files/layout.js")
   type __Check = __IsExpected<typeof handler>
   // @ts-ignore
   type __Unused = __Check

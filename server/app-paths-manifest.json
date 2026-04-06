@@ -1,6 +1,4 @@
 {
   "/page": "app/page.js",
-  "/blog/page": "app/blog/page.js",
-  "/sprunki-looping-the-rooms/page": "app/sprunki-looping-the-rooms/page.js",
-  "/blog/sprunki-looping-the-rooms-blog/page": "app/blog/sprunki-looping-the-rooms-blog/page.js"
+  "/epstein-puzzle-files/page": "app/epstein-puzzle-files/page.js"
 }
