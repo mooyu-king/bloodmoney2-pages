@@ -1,0 +1,105 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/page.js"
+    ],
+    "/blood-money-2/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/blood-money-2/layout.js"
+    ],
+    "/blood-money-2/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/blood-money-2/page.js"
+    ],
+    "/epstein-clicker/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/epstein-clicker/layout.js"
+    ],
+    "/epstein-clicker/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/epstein-clicker/page.js"
+    ],
+    "/soflo-wheelie-life/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/soflo-wheelie-life/layout.js"
+    ],
+    "/soflo-wheelie-life/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/soflo-wheelie-life/page.js"
+    ],
+    "/lovemoney/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/lovemoney/layout.js"
+    ],
+    "/lovemoney/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/lovemoney/page.js"
+    ],
+    "/zombie-merge/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/zombie-merge/layout.js"
+    ],
+    "/zombie-merge/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/zombie-merge/page.js"
+    ],
+    "/normal-maths/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/normal-maths/layout.js"
+    ],
+    "/normal-maths/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/normal-maths/page.js"
+    ],
+    "/epstein-puzzle-files/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/epstein-puzzle-files/layout.js"
+    ],
+    "/epstein-puzzle-files/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/epstein-puzzle-files/page.js"
+    ],
+    "/kingdom-of-marionettes/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/kingdom-of-marionettes/layout.js"
+    ],
+    "/kingdom-of-marionettes/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/kingdom-of-marionettes/page.js"
+    ],
+    "/sad-satan/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sad-satan/layout.js"
+    ],
+    "/sad-satan/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/sad-satan/page.js"
+    ]
+  }
+}
