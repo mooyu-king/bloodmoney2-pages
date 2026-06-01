@@ -1,4 +1,0 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://bloodmoney2.app/sitemap.xml
