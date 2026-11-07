@@ -6,13 +6,11 @@ BloodMoney 2 is a browser-first game collection for players who enjoy dark inter
 
 ## Visit the Website
 
-- **Official website:** [https://bloodmoney2.app/](https://bloodmoney2.app/)
+- **Website:** [https://bloodmoney2.app/](https://bloodmoney2.app/)
 - **Play online:** <a href="https://bloodmoney2.app/" target="_blank" rel="noopener">Open the BloodMoney 2 game collection</a>
 - **Game format:** Browser games, interactive fiction, horror, puzzles, simulation, and arcade experiences
 
-The public website provides the complete experience. This repository contains the generated static export used for deployment, while the live site supplies the intended navigation, responsive layout, embedded game frames, fullscreen controls, categorized cards, and long-form game guides.
-
-## A Collection Built Around Choice and Consequence
+The public website provides the complete experience. ## A Collection Built Around Choice and Consequence
 
 ![BloodMoney 2 story scene](./human-expenditure-program-bloodmoney-2-1.webp)
 
@@ -38,10 +36,14 @@ Original long-form writing is an important part of the project. Game pages are d
 
 ![Jackpot Crash Course casino death-game artwork](./jackpot-crash-course-logo.webp)
 
-Jackpot Crash Course represents another side of the collection. Its casino death-game premise turns pardon, reputation, rivalry, and luck into public entertainment. The page pairs the playable browser build with videos, character-focused analysis, route strategy, and mature-content guidance. It demonstrates how the site can add a new game while preserving the BloodMoney 2 visual format, homepage categories, shared game cards, and sitemap structure. Related images and videos remain local or privacy-conscious wherever possible, keeping the page stable for static deployment.
+Jackpot Crash Course represents another side of the collection. Its casino death-game premise turns pardon, reputation, rivalry, and luck into public entertainment. The page pairs the playable browser build with videos, character-focused analysis, route strategy, and mature-content guidance. Explore its introduction before playing to decide whether its competitive setting and mature themes suit you.
 
-## Static Deployment Repository
+## Plan Your First Visit
 
-This repository is the output of the Next.js static export process. HTML, CSS, JavaScript, images, metadata, robots rules, and sitemap files are generated into `out/` for deployment. The command `npm run build-preserve-git` protects the Git metadata stored inside `out/.git`, rebuilds the export in a temporary workspace, restores the deployment repository, and regenerates this README. If Git metadata is missing, the workflow initializes the `main` branch and configures the correct GitHub remote.
+Start with the game's introduction and content notes before opening the player. Screenshots offer a quick impression of the artwork and reading interface, while the accompanying guide explains the premise without requiring you to follow a complete walkthrough. Choose a title because its mood interests you, rather than assuming that every game in the collection offers the same controls, length, or type of story.
 
-The generated files should not be treated as the primary source code for editing page content. Source changes belong in the main application, followed by a fresh static build. Keeping that boundary clear prevents manual changes in `out/` from disappearing during the next export. For the latest playable games, screenshots, guides, and updates, visit [bloodmoney2.app](https://bloodmoney2.app/) and use the live navigation rather than browsing deployment files individually.
+For a first session, leave enough time to read the opening carefully. If the game presents choices, notice how their tone differs before selecting a response. If it follows a linear story, enjoy the pacing without expecting every conversation to branch. Individual games have their own rules, and a related title is not necessarily a sequel or an experience by the same creator.
+
+Keep the guide page available when you need a reminder about browser controls. Fullscreen can make dialogue easier to read, but it does not change the game's compatibility requirements. Sound may need a click before it starts, and a slow connection can delay the initial loading screen. If something fails, check the page's help rather than assuming your progress has been saved.
+
+When you are ready for another experience, use the shared game cards or navigation menu to browse a different title. Read its own description and content guidance before beginning. Sharing the page address gives a friend the same starting point without implying that your choices, progress, or browser saves will transfer to their device.
